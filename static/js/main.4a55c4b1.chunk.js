@@ -128,9 +128,9 @@
         T = (a(109), a.p + "static/media/resume.bc382d73.pdf"),
         L = {
           name: "Daniel Hahn",
-          title: "Senior Full Stack Engineer",
+          title: "Lead Front End Developer",
           desciption:
-            "Senior fullstack developer with a passion for developing scalable web applications and working across the full stack. I am looking to join forces to continue to grow my skill set while contributing to the positive outcome of making people <richer, smarter, and happier>.",
+            "Lead front end developer with a passion for developing scalable web applications and working across the full stack. I am looking to join forces to continue to grow my skill set while contributing to the positive outcome of making people <richer, smarter, and happier>.",
           image: a.p + "static/media/1.288e043f.jpg",
           resumePdf: T,
         };
@@ -507,7 +507,7 @@
         },
         A = (a(118), "Who I am"),
         E =
-          "My name's Daniel Hahn. I'm a senior full stack engineer with passion.",
+          "My name's Daniel Hahn. I'm a senior front end engineer with passion.",
         M =
           "During the day I work as a lead engineer and in the evening I work on freelance projects and utilize the time to build my own products. I spent my leisure hours doing exercise. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
         H = 1;
@@ -981,21 +981,21 @@
               id: 1,
               company: "Appier",
               jobtitle: "Junior Developer",
-              startYear: "2014.10",
-              endYear: "2016.7",
+              startYear: "2014.11",
+              endYear: "2015.12",
             },
             {
               id: 2,
               company: "Intersog",
-              jobtitle: "Full Stack Engineer",
-              startYear: "2016.8",
-              endYear: "2019.3",
+              jobtitle: "Front End Engineer",
+              startYear: "2016.2",
+              endYear: "2018.2",
             },
             {
               id: 3,
-              company: "Nord Strom",
-              jobtitle: "Full Stack Engineer",
-              startYear: "2019.4",
+              company: "Mbicycle",
+              jobtitle: "Lead Front End Developer",
+              startYear: "2018.3",
               endYear: "2022.11",
             },
           ]),
@@ -1103,7 +1103,7 @@
         Tt = a(36),
         Lt = a(65),
         Bt = a(38),
-        Yt = "furious.forcedev1105@gmail.com",
+        Yt = "daniel.j.hahn1105@gmail.com",
         Rt = "+1 615 745 9069",
         Wt = "Worldwide",
         Pt = "";
